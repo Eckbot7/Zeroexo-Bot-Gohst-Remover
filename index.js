@@ -36,7 +36,7 @@ app.listen(port, () => {
 
 
 
-const statusMessages = ["Manage the Server","Server Manager",""]; /** do what you want here*/
+const statusMessages = ["Manage the Server","Server Manager","Features coming soon!"]; /** do what you want here*/
 
 
 let currentIndex = 0;
